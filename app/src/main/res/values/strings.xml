@@ -12,4 +12,8 @@
     <string name="don_t_have_an_account">Don\'t have an account?</string>
     <string name="sign_up">Sign-Up</string>
     <string name="Terms">By creating an account or signing, you agree to \our Terms and Services</string>
+    <string name="sign_in_">Sign In</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="message">Sign in to access your account and continue \nto enjoy the best of movies.</string>
+    <string name="email">Email</string>
 </resources>
